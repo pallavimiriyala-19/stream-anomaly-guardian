@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+river==0.21.0
+joblib==1.4.2
